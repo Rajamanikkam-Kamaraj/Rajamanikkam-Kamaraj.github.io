@@ -8,7 +8,7 @@
     <p>Email: kamarajr@faf.cuni.cz</p>
     <h2>Education</h2>
     <ul>
-      <li>M.Tech, Kalasalingam University, 2017</li>
+      <li>M.Tech, Kalasalingam University, 2015-2017</li>
       <li>Ph.D, Charles University, 2022-present</li>
     </ul>
     <h2>Experience</h2>
