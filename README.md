@@ -1,11 +1,10 @@
 # Rajamanikkam-Kamaraj.github.io
-<!DOCTYPE html>
 <html>
   <head>
     <title>My CV</title>
   </head>
   <body>
-    <h1>My Name</h1>
+    <h1>Rajamanikkam Kamaraj</h1>
     <p>Email: kamarajr@faf.cni.cz</p>
     <h2>Education</h2>
     <ul>
@@ -14,7 +13,7 @@
     </ul>
     <h2>Experience</h2>
     <ul>
-      <li>Job Title, Company, Year-Present</li>
+      <li>Research Associate, GVK Biosciences, 2020-2021</li>
       <li>Job Title, Company, Year-Year</li>
     </ul>
     <h2>Skills</h2>
