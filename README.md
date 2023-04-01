@@ -6,10 +6,10 @@
   </head>
   <body>
     <h1>My Name</h1>
-    <p>Email: myemail@example.com</p>
+    <p>Email: kamarajr@faf.cni.cz</p>
     <h2>Education</h2>
     <ul>
-      <li>Degree, Institution, Year</li>
+      <li>M.Tech, Kalasalingam University, 2017</li>
       <li>Degree, Institution, Year</li>
     </ul>
     <h2>Experience</h2>
