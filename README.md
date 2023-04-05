@@ -23,29 +23,3 @@
   </body>
 </html>
 
-# Clone 5-HT2C receptor cDNA into a mammalian expression vector
-from Bio import SeqIO
-
-cDNA = SeqIO.read("5-HT2C_cDNA.fasta", "fasta")
-expression_vector = "pcDNA3.1"
-
-def clone(cDNA, expression_vector):
-    # code to clone cDNA into expression vector
-    pass
-
-cloned_vector = clone(cDNA, expression_vector)
-
-# Analyze screening results to identify potential drug candidates
-import scipy.stats as stats
-
-def analyze_data(screening_results):
-    # code to analyze screening results and identify leads
-    pass
-
-# Load the screening results
-screening_results = pd.read_csv("screening_results.csv")
-
-# Analyze the data and print the p-value
-p_value = analyze_data(screening_results)
-print(f"p-value: {p_value}")
-
