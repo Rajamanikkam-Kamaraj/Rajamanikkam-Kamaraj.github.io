@@ -15,11 +15,4 @@
       <li>Research Associate, Aragen Life Sciences (GVK Bio), 2020-2021</li>
       <li>Research Fellow, Dr. Reddy’s Institute of Life Sciences (DRILS), 2018-2020</li>
     </ul>
-    <h2>Skills</h2>
-    <ul>
-      <li>Skill 1</li>
-      <li>Skill 2</li>
-    </ul>
-  </body>
-</html>
 
