@@ -1,4 +1,3 @@
-# Rajamanikkam-Kamaraj.github.io
 <html>
   <head>
     <title>My CV</title>
